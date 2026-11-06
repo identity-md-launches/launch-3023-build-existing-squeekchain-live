@@ -1,0 +1,141 @@
+{
+  "viewports": [
+    {
+      "width": 320,
+      "scrollWidth": 320,
+      "overflow": false,
+      "fontLoaded": true
+    },
+    {
+      "width": 390,
+      "scrollWidth": 390,
+      "overflow": false,
+      "fontLoaded": true
+    },
+    {
+      "width": 768,
+      "scrollWidth": 768,
+      "overflow": false,
+      "fontLoaded": true
+    },
+    {
+      "width": 1024,
+      "scrollWidth": 1024,
+      "overflow": false,
+      "fontLoaded": true
+    },
+    {
+      "width": 1440,
+      "scrollWidth": 1440,
+      "overflow": false,
+      "fontLoaded": true
+    }
+  ],
+  "requests": [
+    {
+      "endpoint": "https://api.squeekchain.com/v1/status",
+      "status": 200
+    },
+    {
+      "endpoint": "https://api.squeekchain.com/v1/economy/state",
+      "status": 200
+    },
+    {
+      "endpoint": "https://api.squeekchain.com/v1/settlements?range=24h",
+      "status": 200
+    },
+    {
+      "endpoint": "https://api.squeekchain.com/v1/settlements?range=24h",
+      "status": 200
+    },
+    {
+      "endpoint": "https://api.squeekchain.com/v1/status",
+      "status": 200
+    },
+    {
+      "endpoint": "https://api.squeekchain.com/v1/economy/state",
+      "status": 200
+    },
+    {
+      "endpoint": "https://api.squeekchain.com/v1/status",
+      "status": 200
+    },
+    {
+      "endpoint": "https://api.squeekchain.com/v1/economy/state",
+      "status": 200
+    },
+    {
+      "endpoint": "https://api.squeekchain.com/v1/settlements?range=7d",
+      "status": 200
+    },
+    {
+      "endpoint": "https://api.squeekchain.com/v1/settlements?range=7d",
+      "status": 200
+    },
+    {
+      "endpoint": "https://api.squeekchain.com/v1/settlements?range=24h",
+      "status": 200
+    },
+    {
+      "endpoint": "https://api.squeekchain.com/v1/status",
+      "status": 200
+    }
+  ],
+  "errors": [],
+  "interactions": [
+    "Live manual refresh: all three API endpoints requested successfully.",
+    "Live 7d: query, summary, 28 six-hour buckets and recent list updated.",
+    "Live chart metric, exact-value table and show-all list worked.",
+    "Live automatic refresh observed while 7d remained selected.",
+    "Returned to 24h with 24 hourly buckets."
+  ],
+  "live": {
+    "settlements24h": "140",
+    "miningMinted": "211,344,892.87",
+    "apiCap": "2,100,000,000",
+    "apiPremint": "210,000,000",
+    "queue": "Submitted\n\nSettlements enabled",
+    "settlements7d": "146"
+  },
+  "focus": {
+    "outline": "rgb(56, 90, 194) solid 3px",
+    "pressed": "true"
+  },
+  "contrast": {
+    "pairs": {
+      "primary": {
+        "foreground": "rgb(38, 54, 41)",
+        "background": "rgb(209, 245, 165)"
+      },
+      "page": {
+        "foreground": "rgb(38, 54, 41)",
+        "background": "rgba(0, 0, 0, 0)"
+      },
+      "reference": {
+        "foreground": "rgb(120, 80, 30)",
+        "background": "rgba(0, 0, 0, 0)"
+      },
+      "muted": "#4f5c49",
+      "text": "#263629",
+      "surface": "#fff",
+      "accent": "#d1f5a5",
+      "warning": "#78501e",
+      "focus": "#385ac2",
+      "chart": "#77995b",
+      "pageColor": "#f5f6f2"
+    },
+    "ratios": {
+      "mutedOnWhite": 7.1,
+      "textOnPage": 11.78,
+      "primaryText": 10.54,
+      "warningOnWhite": 7.08,
+      "focusOnWhite": 6.16,
+      "focusOnPage": 5.67,
+      "focusOnLime": 5.08,
+      "chartOnWhite": 3.23
+    }
+  },
+  "axe": {
+    "violations": []
+  }
+}

@@ -1,0 +1,17 @@
+# Budget: <= 1 KiB for this file. Generated paths below have a 0-byte submission budget.
+# dist/ (<= 1 MiB) and artifacts/ (<= 5 MiB) are required, and remain included.
+!/dist/
+!/dist/**
+!/artifacts/
+!/artifacts/**
+**/node_modules/
+**/.cache/
+**/.npm/
+**/.vite/
+**/.vite-temp/
+**/.pnpm-store/
+**/coverage/
+**/*.tsbuildinfo
+/test/scratch/
+**/playwright-report/
+**/test-results/

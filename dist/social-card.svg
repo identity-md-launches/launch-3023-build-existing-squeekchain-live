@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#f5f6f2"/>
+  <rect x="48" y="48" width="1104" height="534" rx="30" fill="#e7efdf"/>
+  <g font-family="Arial, sans-serif" fill="#263629">
+    <rect x="100" y="99" width="48" height="48" rx="14" fill="#263629"/>
+    <g fill="#d1f5a5"><circle cx="115" cy="114" r="6"/><circle cx="133" cy="114" r="6"/><ellipse cx="124" cy="126" rx="16" ry="14"/></g>
+    <g fill="#263629"><circle cx="118" cy="124" r="2"/><circle cx="130" cy="124" r="2"/><ellipse cx="124" cy="131" rx="3" ry="2"/></g>
+    <text x="164" y="132" font-size="28" font-weight="700">Squeekchain</text>
+    <text x="100" y="257" font-size="64" font-weight="700" letter-spacing="-3">A little wheel.</text>
+    <text x="100" y="334" font-size="64" font-weight="700" letter-spacing="-3">Real proof of work.</text>
+    <text x="102" y="393" font-size="24" fill="#4f5c49">Live wheel telemetry, blocks and settlements.</text>
+    <rect x="100" y="449" width="258" height="54" rx="12" fill="#d1f5a5"/>
+    <circle cx="127" cy="476" r="5" fill="#3c612d"/>
+    <text x="145" y="484" font-size="20" font-weight="700">Live Dashboard</text>
+  </g>
+  <g transform="translate(695 109)">
+    <ellipse cx="200" cy="372" rx="142" ry="9" fill="#d5e1cc"/>
+    <path d="m177 278-42 90m69-90 51 90M117 368h158" stroke="#53654d" stroke-width="11" stroke-linecap="round"/>
+    <circle cx="195" cy="174" r="152" fill="#f4faed" stroke="#a5ba95" stroke-width="4"/>
+    <circle cx="195" cy="174" r="134" fill="none" stroke="#d4e4c8" stroke-width="20"/>
+    <g stroke="#c7d9b9" stroke-width="3"><path d="M195 40v268M61 174h268M100 79l190 190M100 269 290 79"/></g>
+    <g fill="none" stroke="#91a782" stroke-width="4"><circle cx="195" cy="174" r="134" stroke-dasharray="3 28"/></g>
+    <circle cx="195" cy="174" r="9" fill="#a5ba95"/>
+    <path d="M104 252c-16-3-20-16-12-22" fill="none" stroke="#b77945" stroke-width="10" stroke-linecap="round"/>
+    <path d="M103 246c0-43 30-68 64-65 19 1 31 11 39 23 25-7 53 2 58 25 3 8 15 12 11 22-4 13-27 24-53 26-35 18-86 9-110-9-6-6-9-14-9-22Z" fill="#d6a171"/>
+    <path d="M158 259c7-31 30-49 50-55 23-7 51 4 56 25 3 8 15 12 11 22-4 13-27 24-53 26-23 11-43 9-54 5-10-3-14-11-10-23Z" fill="#fbebd6"/>
+    <path d="M205 204c-5-16 1-31 13-31 13 0 20 18 12 32" fill="#d6a171"/>
+    <path d="M213 201c-3-9 0-17 5-17 6 0 10 10 6 18" fill="#c8816a"/>
+    <circle cx="248" cy="226" r="4.5" fill="#263629"/><ellipse cx="273" cy="243" rx="5" ry="4" fill="#b97865"/>
+    <path d="m129 274-7 11 28-1m44-9 12 10 23-2" fill="none" stroke="#b77945" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M44 174a151 151 0 0 0 302 0" fill="none" stroke="#8fa57f" stroke-width="4"/>
+  </g>
+</svg>

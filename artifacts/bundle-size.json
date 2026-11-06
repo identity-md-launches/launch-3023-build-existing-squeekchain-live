@@ -1,0 +1,29 @@
+{
+  "total_bytes": 2269537,
+  "limit_bytes": 8388608,
+  "remaining_bytes": 6119071,
+  "file_count": 52,
+  "directory_bytes": {
+    "src": 101879,
+    "public": 76485,
+    "tests": 38201,
+    "dist": 422166,
+    "artifacts": 1559630
+  },
+  "ignore_file_bytes": 377,
+  "other_deliverable_bytes": 287364,
+  "generated_dependency_cache_submission_bytes": 0,
+  "export_matches_checked_build": true,
+  "export_sha256": {
+    "social-card.png": "7dbb1a01ed81ec44b690199acf5b0c41a9a32cca3dc2fc9443b07e87fcb34fe2",
+    "favicon.svg": "9732ca091b4fb1ea7cb4cf783e0359b14ae930bb1b9405751445eb32c05f5c67",
+    "social-card.svg": "e53b1d427c5137a3c1d7ed8f9edd256d7b7bf4455285ac7abe722e0418c63a5e",
+    "index.html": "21f48a31505a8d63fe9cbfcd150403a78f3ab7372a1a8289a97f0c0cda2b7a4a",
+    "licenses/React-MIT.txt": "da6d3703ed11cbe42bd212c725957c98da23cbff1998c05fa4b3d976d1a58e93",
+    "licenses/DM-Sans-OFL.txt": "6fbd040a29c2037a765dfb9f2561e9965b5c95c6dcb5dce516089d63d5f17af7",
+    "assets/dm-sans-latin-ext-wght-normal-BOFOeGcA.woff2": "a5d38fe99f930275684999b462c7123faa063d9e44e73b4b241723d884aa0f49",
+    "assets/index-DA7816RE.css": "892aa12250f1f2e74cf450fda2a2cb5976210098f3b55a4fa46204d8c39da99b",
+    "assets/index-B4Wsxkbf.js": "9651797848af6a4395fb444b408303496e81ea9be759a7e5cdf372bb92cc5b55",
+    "assets/dm-sans-latin-wght-normal-Xz1IZZA0.woff2": "9fea608a947e67020c33cad9a6fe3d60c54119dfb8cff87768a8117a15ed7543"
+  }
+}
